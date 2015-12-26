@@ -8,9 +8,11 @@ $ ghci
 
 ## Boolean operators 
  &&  : "and"
+
  ||  : "or"
- not : "not"
  
+ not : "not"
+
 ## Equality
  ==
  /= 
