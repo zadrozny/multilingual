@@ -7,10 +7,10 @@ $ sudo dnf install haskell-platform
 $ ghci
 
 ## Boolean operators 
- &&  : "and"\
- ||  : "or"\
+ &&  : "and"
+ ||  : "or"
  not : "not"
-
+ 
 ## Equality
  ==
  /= 
